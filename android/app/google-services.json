@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1037676122747",
+    "project_id": "cse-chat-d5d60",
+    "storage_bucket": "cse-chat-d5d60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037676122747:android:ca499fb209f8d15a7288de",
+        "android_client_info": {
+          "package_name": "com.prajwal.cse_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037676122747-2ef2njo978qobjneqn148q8pau73n3ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnzq4vWD3V043_8bVggrKDxcfdvXzTjqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037676122747-2ef2njo978qobjneqn148q8pau73n3ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
